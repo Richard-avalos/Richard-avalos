@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋, Soy Richard Avalos</h1>
 <h3 align="center">Un Apasionado Fullstack developer</h3>
 
-- 💬 Pregúntame sobre **HTML, CSS, Javascript, Java, Spring**
-
+- 💬 Pregúntame sobre **HTML, CSS, Javascript, Spring, PHP-Laravel, Django, Java, Python**
+- 🌱 Estoy aprendiendo: Node.js
 - 📫 Cómo contactarme **avalosrichard041@gmail.com**
 
 <h3 align="left">Contacta conmigo:</h3>

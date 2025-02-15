@@ -2,7 +2,7 @@
 <h3 align="center">Un Apasionado Fullstack Developer</h3>
 
 - 💬 Pregúntame sobre **HTML, CSS, Javascript, Spring, PHP-Laravel, Django, Java, Python**
-- 🌱 Estoy aprendiendo: Node.js
+- 🌱 Estoy aprendiendo: MySQL
 - 📫 Cómo contactarme **avalosrichard041@gmail.com**
 
 <h3 align="left">Contacta conmigo:</h3>
